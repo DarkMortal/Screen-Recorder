@@ -1,0 +1,23 @@
+.recording{
+    background-color: #0e8de4;
+    color: white;
+    padding: 10px;
+    font-family: sans-serif;
+    width: 100%;
+    border: none;
+}
+.recording:hover{
+    background-color: #0947d5;
+}
+video{
+    width: 100%;
+    aspect-ratio: 16/9;
+    background-color: #0947d5;
+}
+html, body{
+    background-color: #171f2e;
+    padding: 20px;
+}
+a{
+    display: none;
+}
